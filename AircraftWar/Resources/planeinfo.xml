@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?> 
+<plist>
+<dict>
+<key>planedamage</key> 
+<string>攻击力:</string>
+<key>planedamageamount1</key> 
+<string>5</string>
+<key>planedamageamount2</key> 
+<string>3</string>
+<key>planedamageamount3</key> 
+<string>4</string>
+<key>planedamageamount4</key> 
+<string>4</string>
+<key>planedamageamount5</key> 
+<string>4</string>
+<key>planeshootspeed</key> 
+<string>射击间隔:</string>
+<key>planeshootspeedrate1</key> 
+<string>20</string>
+<key>planeshootspeedrate2</key> 
+<string>17</string>
+<key>planeshootspeedrate3</key> 
+<string>18</string>
+<key>planeshootspeedrate4</key> 
+<string>15</string>
+<key>planeshootspeedrate5</key> 
+<string>20</string>
+
+  
+  <key>plane1</key>
+  <string>Player1.png</string>
+    <key>plane2</key>
+  <string>Player2.png</string>
+  <key>plane3</key>
+  <string>Player3.png</string>
+  <key>plane4</key>
+  <string>Player4.png</string>
+  <key>plane5</key>
+  <string>Player5.png</string>
+
+  <key>plane1_hp</key>
+  <string>300</string>
+  <key>plane2_hp</key>
+  <string>200</string>
+  <key>plane3_hp</key>
+  <string>150</string>
+  <key>plane4_hp</key>
+  <string>200</string>
+  <key>plane5_hp</key>
+  <string>250</string>
+  
+</dict>
+</plist>
